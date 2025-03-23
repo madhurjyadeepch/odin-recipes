@@ -1,3 +1,3 @@
 # Odin Recipes Project
 
-## Created HTML file.
+## Created a website which shows three recipes.
